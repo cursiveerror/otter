@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="otter_icon_desktop.png" alt="Otter" width="100">
+  <img src="otter_icon_desktop.png" alt="Otter" width="160">
   <h1>Otter</h1>
 </div>
 
